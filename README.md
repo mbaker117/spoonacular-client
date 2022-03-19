@@ -1,5 +1,4 @@
 # spoonacular-client
-# Spoonacular Client
 ## Mohammed Baker
 
 This is a spring boot project, it has two controllers:
